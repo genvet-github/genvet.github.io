@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Genesee Veterinary Hospital",
     "description": "",
-    "home_page_url": "https://beta.geneseevethospital.com",
-    "feed_url": "https://beta.geneseevethospital.com/feed.json",
+    "home_page_url": "https://genvet-github.github.io/site",
+    "feed_url": "https://genvet-github.github.io/site/feed.json",
     "user_comment": "",
     "author": {
         "name": "Hylon Heaton"
