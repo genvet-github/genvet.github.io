@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://genvet.github.io/sitemap.xml
